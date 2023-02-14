@@ -7,6 +7,7 @@ interface LayoutProps {
    caption: string
    children: any
 }
+//teste
 export default function layout(props: LayoutProps) 
 { 
     return (
