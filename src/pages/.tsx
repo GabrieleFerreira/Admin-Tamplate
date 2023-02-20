@@ -3,6 +3,7 @@ export default function notifications() {
     return (
         <Layout title ="Notificações"
         caption="Aqui você pode gerenciar sua notificações!!">
+        
         </Layout>
     )
 }

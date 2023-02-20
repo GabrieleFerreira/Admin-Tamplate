@@ -16,7 +16,7 @@ export default function MenuItem(props: MenuItemProps) {
                 {props.icon} 
                 <span className={'text-xs font-light text-gray-900 text-center'}>
 
-                {   props.text}
+                {props.text}
                 </span>
             </a>
 
